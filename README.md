@@ -1,4 +1,4 @@
-# flutter_scanner
+# โค้ดประกอบเนือหา FLutter Scan Barcode & QRCode
 
 A new Flutter project.
 
