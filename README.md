@@ -1,17 +1,8 @@
-# โค้ดประกอบเนื้อหา FLutter Scan Barcode & QRCode
-## ประกอบด้วย 15 หัวข้อ
-- [สร้างโปรเจคใหม่](https://www.youtube.com/watch?v=UjWMGpE17Fw&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=2)
-- [ติดตั้ง Package qrscan](https://www.youtube.com/watch?v=e1Zi9NiGeKg&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=3)
-- [ระบบสแกน QRcode & Barcode](https://www.youtube.com/watch?v=YjBgzLI1Hg0&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=4)
-- [แสดงข้อมูลผลการสแกน](https://www.youtube.com/watch?v=GmezHzvg6vY&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=5)
-- [ติดตั้ง flutter automation](https://www.youtube.com/watch?v=jXhT1B5b6UE&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=6)
-- [การสร้าง Keystore](https://www.youtube.com/watch?v=DRFJcJ6qezo&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=7)
-- [ตรวจสอบ Keystore](https://www.youtube.com/watch?v=xb8uBvzO0ng&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=8)
-- [กำหนด Permission Camera & Internet](https://www.youtube.com/watch?v=Wz7KGKjsjos&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=9)
-- [Build Android Application (APK)](https://www.youtube.com/watch?v=3HR6gDtJq3M&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=10)
-- [ทดสอบสแกน Barcode & QRcode](https://www.youtube.com/watch?v=4lIT_bkdBC4&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=11)
-- [เชื่อมต่อกับ Line](https://www.youtube.com/watch?v=2HrbvY_8IHY&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=12)
-- [ทดสอบการเชื่อมต่อกับ Line](https://www.youtube.com/watch?v=Y62ZsUeeiqQ&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=13)
-- [เชื่อมต่อกับ Youtube และ Facebook](https://www.youtube.com/watch?v=BFZ4lYsrl6w&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=14)
-- [จัดการ Link ด้วย Package](https://www.youtube.com/watch?v=fj8YTiGnVJk&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=15)
-- [ทดสอบการเชื่อมต่อกับ Youtube และ Facebook](https://www.youtube.com/watch?v=UhMQFmr4GB4&list=PLltVQYLz1BMC4r1lbHCCWgcvLMZ3lFx_d&index=16)
+## ☕ ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+
+## 💓 ช่อง Youtube ในเครือของเรา
+![logo](https://github.com/kongruksiamza/programmer-class-room/blob/main/logo.png?raw=true)
+- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
